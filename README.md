@@ -1,6 +1,6 @@
 ##Screenshots
-![Hasil Run](/MainFrame.jpg)
-![Hasil Run](/DetailMovies.jpg)
-![Hasil Run](/DetailSeries.jpg)
-![Hasil Run](/FrameProfile.jpg)
-![Hasil Run](/DetailToWeb.jpg)
+![Hasil Run](/awal.jpg)
+![Hasil Run](/email.jpg)
+![Hasil Run](/age.jpg)
+![Hasil Run](/phone.jpg)
+![Hasil Run](/saved.jpg)
